@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1512077828 source:c:\users\isco\desktop\pract4_g34\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1517078948 source:c:\users\isco\google drive\uva\programación\fran 8nformatica\coding\práctica 4\pract4_g34\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1516970808 source:c:\users\franc\google drive\uva\programación\fran 8nformatica\coding\práctica 4\pract4_g34 (1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
+1515987919 source:d:\uva\programacion\4ª entrega\pract4_g34\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
